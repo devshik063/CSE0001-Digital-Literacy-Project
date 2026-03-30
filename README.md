@@ -22,35 +22,35 @@ As a Student Digital Ambassador, I have completed five structured tasks that dem
 ## 📂 Repository Structure
 
 CSE0001-Digital-Literacy-Project/<br>
-│
-├── README.md
-├── project_report.docx
-│
-├── task-1-presentation/
-│   ├── infographic.png
-│   └── Brief Description.txt
-│
-├── task-2-portfolio/
-│   ├── github-profile.png
-│   ├── linkedin-profile.png
-│   ├── kaggle-profile.png
-│   └── Reflection note.txt
-│
-├── task-3-platforms/
-│   ├── codechef-challenge.png
-│   ├── badge.png
-│   ├── google-form.png
-│   ├── responses.png
-│   └── notes.txt
-│
-├── task-4-email-etiquette/
-│   ├── email1.txt
-│   ├── email2.txt
-│   └── social-media-checklist.md
-│
-└── task-5-cybercrime/
-├── casestudy.md
-└── prevention-checklist.txt
+│ <br>
+├── README.md <br>
+├── project_report.docx <br>
+│<br>
+├── task-1-presentation/<br>
+│   ├── infographic.png<br>
+│   └── Brief Description.txt<br>
+│<br>
+├── task-2-portfolio/<br>
+│   ├── github-profile.png<br>
+│   ├── linkedin-profile.png<br>
+│   ├── kaggle-profile.png<br>
+│   └── Reflection note.txt<br>
+│<br>
+├── task-3-platforms/<br>
+│   ├── codechef-challenge.png<br>
+│   ├── badge.png<br>
+│   ├── google-form.png<br>
+│   ├── responses.png<br>
+│   └── notes.txt<br>
+│<br>
+├── task-4-email-etiquette/<br>
+│   ├── email1.txt<br>
+│   ├── email2.txt<br>
+│   └── social-media-checklist.md<br>
+│<br>
+└── task-5-cybercrime/<br>
+├── casestudy.md<br>
+└── prevention-checklist.txt<br>
 
 ---
 
