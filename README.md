@@ -37,8 +37,8 @@ CSE0001-Digital-Literacy-Project/<br>
 │   └── Reflection note.txt<br>
 │<br>
 ├── task-3-platforms/<br>
-│   ├── codechef-challenge.png<br>
-│   ├── badge.png<br>
+│   ├── completedchallenge.png<br>
+│   ├── codechef badge.png<br>
 │   ├── google-form.png<br>
 │   ├── responses.png<br>
 │   └── notes.txt<br>
