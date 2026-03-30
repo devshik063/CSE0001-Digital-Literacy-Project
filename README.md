@@ -7,6 +7,7 @@ CSE0001 - Digital Literacy Project  demonstrating my understanding of digital li
 * **Name:** Divyansh Singh
 * **Branch:** Int M.Tech (Artificial Intelligence)
 * **Batch:** 2025 - 2030
+* **Reg.No.** 25MIM10162
 * **Course Code:** CSE0001 – Digital Literacy
 
 ---
