@@ -21,7 +21,7 @@ As a Student Digital Ambassador, I have completed five structured tasks that dem
 
 ## 📂 Repository Structure
 
-CSE0001-Digital-Literacy-Project/
+CSE0001-Digital-Literacy-Project/<br>
 │
 ├── README.md
 ├── project_report.docx
